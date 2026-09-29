@@ -1,0 +1,16 @@
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+.idea/
+.vscode/
+**/Data/*.db
+**/Data/*.db-shm
+**/Data/*.db-wal
+**/Data/SafeUploads/*
+**/wwwroot/uploads/*
+!**/Data/SafeUploads/.gitkeep
+!**/wwwroot/uploads/.gitkeep
+Thumbs.db
+.DS_Store
